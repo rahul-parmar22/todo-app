@@ -1,0 +1,5 @@
+node_modules
+.env
+1importantNotes.txt
+.env.*  
+#.env.*  // .env thi statrt thava vali badhi files ignore thashe...like .env.development .env.production etc
