@@ -4,3 +4,7 @@ Marking tasks as completed provides a sense of achievement and progress, which h
 
 
 Uploaded on Netlify : [preview website](https://helpful-eclair-e022bb.netlify.app/)
+
+
+# Note
+made only for learn  mern stack basic concepts.... routing , protected routes , middleware connection etc.
